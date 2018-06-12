@@ -1,0 +1,38 @@
+<html>
+<head>
+    <title>Ducks are Adorable</title>
+</head>
+<body>
+    <strong> <h6>DUCK</h6>
+    <br>
+    <h5>DUCK</h5>
+    <br>
+    <h4>DUCK</h4>
+    <br>
+    <h3>DUCK</h3>
+    <br>
+    <h2>DUCK</h2>
+    <br>
+    <u><h1>DUCK!!!!!!!!!!!</h1></u>
+    </strong>
+    <hr>
+    <br>
+    <a href="https://www.youtube.com/watch?v=e3PdcKcUvDY"> <img src="https://kids.nationalgeographic.com/content/dam/kids/photos/animals/Birds/H-P/mallard-male-swimming.adapt.945.1.jpg"></a>
+    <!--Goose-->
+    <br>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"> <button type="button">"<img src="https://pull01.munchkin.com/media/catalog/product/3/1/31001_1_1_2.jpg" width="100" height="50"></button></a>
+    <a href="https://www.youtube.com/watch?v=B8IfCSnYPYo"> <img src="https://cdn9.littlethings.com/app/uploads/2014/09/rxDvM.jpg"></a>
+<style>
+    body{background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLIO3r2nACeoyumwnKElSsy_HVU8Ag_p5GI8L4EkPZy5f7U2MsQ);
+    }   
+
+</style>
+
+    <h3>Top Duck Breeds<h3>
+    <ol type="I">
+        <li>Khaki Campbell <img src="https://www.purelypoultry.com/images/khaki-campbell-ducklings.jpg" width="150" height="100"></li>   
+        <li>Mallard Ducks <img scr="" width="150" height="100"></li>
+        <li>Cayuga duck <img src="https://i.ytimg.com/vi/S0j7nYNSGak/maxresdefault.jpg" width="150" height="100"></li>
+    </ol>
+</body>
+</html>
